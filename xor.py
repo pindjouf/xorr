@@ -43,5 +43,5 @@ deci_ciphertext = int(''.join(map(str, ciphertext)), 2)
 # Clear screen pre-print
 # os.system('clear')
 
-print("The ciphertext is: {}".format(pretty_ci))
-print("Decimal value: {}".format(deci_ciphertext))
+print(f"The ciphertext is: {pretty_ci}")
+print(f"Decimal value: {deci_ciphertext}")
