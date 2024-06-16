@@ -1,8 +1,12 @@
 # Xorr
 
-Xorr is a CLI utility to perform XOR operations on binary values (for now).
+Xorr is a CLI tool to perform XOR operations!
 
-P.S. Nothing works yet.
+## Features
+
+    - Generate ciphertext
+
+**Notice:** Nothing works yet.
 
 ## Usage
 
@@ -43,3 +47,9 @@ Something else to note is that this same operation gives `45` as an output on Cy
 ## End notes
 
 This project was started to improve my programming skills and deepen my understanding of XOR and cryptography in general.
+
+## Information
+
+Author: pindjouf
+
+License: [MIT License](https://opensource.org/license/MIT)
