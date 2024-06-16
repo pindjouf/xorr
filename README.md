@@ -4,7 +4,7 @@ Xorr is a CLI tool to perform XOR operations!
 
 ## Features
 
-    - Generate ciphertext
+- Generate ciphertext
 
 **Notice:** Nothing works yet.
 
