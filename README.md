@@ -50,6 +50,6 @@ This project was started to improve my programming skills and deepen my understa
 
 ## Information
 
-Author: pindjouf
+Author: [pindjouf](https://github.com/pindjouf)
 
 License: [MIT License](https://opensource.org/license/MIT)
