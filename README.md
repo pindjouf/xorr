@@ -29,7 +29,7 @@ Decimal value: 7
 
 As you can see the ciphertext gets correctly made but that isn't the case for every operation. 
 
-Something else to note is that this same operation gives `45` as an output on CyberChef so I will have to investigate as to why that's happening my understanding of XOR must be messed up somewhere.
+Something else to note is that this same operation gives `45` as an output on CyberChef so I will have to investigate why that's happening, my understanding of XOR must be messed up somewhere.
 
 *See the following section for additions that have yet to be put into the program.*
 
