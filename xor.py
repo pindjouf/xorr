@@ -22,8 +22,8 @@ if len(plaintext) < len(secret_key):
     for i in range(result):
         plaintext.insert(0, 0)
 
-elif len(secret_key) < len(plaintext):
-    result = len(plaintext) - len(plaintext)
+else:
+    result = len(plaintext) - len(secret_key)
     for i in range(result):
         secret_key.insert(0, 0)
 
@@ -43,5 +43,5 @@ deci_ciphertext = int(''.join(map(str, ciphertext)), 2)
 # Clear screen pre-print
 # os.system('clear')
 
-print("The ciphertext is: {}".format(pretty_ci))
-print("Decimal value: {}".format(deci_ciphertext))
+print(f"The ciphertext is: {pretty_ci}")
+print(f"Decimal value: {deci_ciphertext}")
