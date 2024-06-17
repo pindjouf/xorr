@@ -1,3 +1,6 @@
+> [!WARNING]
+> `xorr` is undergoing a major rewrite. Nothing works as expected in the current version. Many features haven't been implemented yet.
+
 # Xorr
 
 Xorr is a CLI tool to perform XOR operations!
@@ -5,8 +8,6 @@ Xorr is a CLI tool to perform XOR operations!
 ## Features
 
 - Generate ciphertext
-
-**Notice:** Nothing works yet.
 
 ## Usage
 
