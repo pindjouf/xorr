@@ -1,5 +1,5 @@
 > [!WARNING]
-> `xorr` is undergoing a major rewrite. Nothing works as expected in the current version. Many features haven't been implemented yet.
+> `xorr` Only a few things work as expected in the current version. Many features haven't been implemented yet.
 
 # Xorr
 
@@ -41,7 +41,7 @@ Something else to note is that this same operation gives `45` as an output on Cy
 ## Roadmap / to-do list
 
 - [x] Ensure list is of the same length pre-operation.
-- [ ] Add ASCII support.
+- [ ] Add ASCII support. (*50% done*)
 - [ ] Add file encryption support.
 
 ## End notes
