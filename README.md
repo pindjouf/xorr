@@ -40,8 +40,7 @@ Something else to note is that this same operation gives `45` as an output on Cy
 
 ## Roadmap / to-do list
 
-- [ ] Ensure list is of the same length pre-operation.
-- [ ] Make `xor.py` command usable in one line.
+- [x] Ensure list is of the same length pre-operation.
 - [ ] Add ASCII support.
 - [ ] Add file encryption support.
 
